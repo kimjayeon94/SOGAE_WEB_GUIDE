@@ -10,16 +10,16 @@ div img{
 .fixed{
   position: fixed;
   right:100px;
-  bottom:50px;
+  bottom:100px;
 }
 .fixed:hover{
   opacity:0.8;
 }
-/* .fixed2{
+.fixed2{
   position: fixed;
-  right:108px;
+  right:101px;
   bottom:40px;
 }
 .fixed2:hover{
   opacity:0.8;
-} */
+}
